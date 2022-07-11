@@ -31,7 +31,7 @@ PCM
 https://github.com/opcm/pcm/issues
 
 Intel System Health Inspector
-https://intel.sharepoint.com/sites/CESGSWSolutions/Shared%20Documents/External%20Releases/ServerInfoUserGuide.pdf
+
 
 Intel Open Source
 https://github.com/intel/PerfSpect
